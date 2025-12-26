@@ -31,4 +31,11 @@ This project demonstrates **basic game logic, control flow, and array manipulati
 g++ tic-tac-toe.cpp -o tic-tac-toe
 ./tic_tac_toe
 
+## Output Screenshots
+
+### Output 1
+![Output 1](images/output1.png)
+
+### Output 2
+![Output 2](images/output2.png)
 

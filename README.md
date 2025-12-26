@@ -33,7 +33,6 @@ This project demonstrates **basic game logic, control flow, and array manipulati
 ### Output 2
 ![Output 2](images/output2.png)
 
-
 ### 1️⃣ Compile and run the program
 ```bash
 g++ tic-tac-toe.cpp -o tic-tac-toe

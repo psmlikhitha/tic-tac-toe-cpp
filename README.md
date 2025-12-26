@@ -25,12 +25,6 @@ This project demonstrates **basic game logic, control flow, and array manipulati
 - Draw detection when the board is full and no player wins
 - Simple and user-friendly console interface
 
-
-### 1️⃣ Compile and run the program
-```bash
-g++ tic-tac-toe.cpp -o tic-tac-toe
-./tic_tac_toe
-
 ## Output Screenshots
 
 ### Output 1
@@ -38,4 +32,10 @@ g++ tic-tac-toe.cpp -o tic-tac-toe
 
 ### Output 2
 ![Output 2](images/output2.png)
+
+
+### 1️⃣ Compile and run the program
+```bash
+g++ tic-tac-toe.cpp -o tic-tac-toe
+./tic_tac_toe
 

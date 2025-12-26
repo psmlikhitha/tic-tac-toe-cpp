@@ -28,10 +28,10 @@ This project demonstrates **basic game logic, control flow, and array manipulati
 ## Output Screenshots
 
 ### Output 1
-![Output 1](images/output1.png)
+![Output 1](images/output1.png.png)
 
 ### Output 2
-![Output 2](images/output2.png)
+![Output 2](images/output2.png.png)
 
 ### 1️⃣ Compile and run the program
 ```bash
